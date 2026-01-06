@@ -11,7 +11,13 @@
 5. Brooke Soto [@3rooke15](https://github.com/3rooke15)
 
 # Project Context
-This repository is forked from a team-based academic project completed as part of a university course. My work included reviewing and making changes to the data model structure, writing individual queries for analysis, and developing visualizations in Tableau to communicate to stakeholders what changes could be made to make movie studios more profitable in the future.
+This repository is forked from a team-based academic project completed as part of a university course. I contributed by reviewing and refining the data model structure, writing individual SQL queries to support analysis, and creating Tableau visualizations to communicate insights and recommendations to stakeholders on how movie studios could improve future profitability.
+
+## Tools & Skills Used
+- SQL (joins, aggregations, subqueries)
+- Relational database design
+- Tableau (data visualization & storytelling)
+- Analytical reasoning
 
 # Problem Description
 The problem we tackled was to build a data model to store and sort movie data better than conventional options available on the web. The core of the model is the movie class, which represents each unique film within the database that a customer may watch. 
